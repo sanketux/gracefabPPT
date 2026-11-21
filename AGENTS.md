@@ -21,7 +21,8 @@
 | Purpose / goal | _Not confirmed yet_ |
 | Audience | _Not confirmed yet._ (The source deck was written for the Hon. Minister for Industries, Govt. of Maharashtra, and the CEO of MIDC.) |
 | Format | _Not confirmed yet_ |
-| Status | Source context received. **Style, references and approach are not locked yet.** |
+| Status | Source context received. Accent colour confirmed. **Client references awaited; style and approach not locked yet.** |
+| Tooling | Pitch is connected to Claude (workspace "Sanket's team"), so the deck can be built in Pitch. The tool for the final deck isn't confirmed yet. |
 
 ## 2. About Yash Poly
 
@@ -40,6 +41,7 @@ All resources are in `context-files/`.
 
 | File | What it is | Notes |
 | --- | --- | --- |
+| `context-files/yashpoly-logo.png` | Yashpoly logo (230 × 48 px, small raster) | Source of the corporate green. Ask for a vector or high-res version before using it large. |
 | `context-files/industrial-kumbh-2027-nashik-source.pptx` | **Main source context deck**: "Industrial Kumbh 2027: Maharashtra Meets the World", 25 slides, 16:9 | Shared by the project owner as source context. Slides 9–15 are full-page images taken from Yashpoly's Eco Dham concept note. |
 
 ### Source deck: slide map
@@ -130,7 +132,19 @@ _Not decided yet. To be logged after the project owner confirms it._
 
 ## 6. Style, look & feel
 
-_Not locked yet. The project owner will share references first. Don't assume a style, and don't treat the source deck's look as the chosen direction._
+The overall style is **not locked yet**: wait for the client's references. Don't treat the source deck's look as the chosen direction.
+
+### Confirmed: accent colour (corporate green, from the Yashpoly logo)
+
+The logo green is too light to use as text on white, so it comes in two tones. Contrast ratios were checked against WCAG 2.x (AA needs 4.5:1 for normal text and 3:1 for large text; AAA needs 7:1 and 4.5:1).
+
+| Token | Hex | Use | Contrast |
+| --- | --- | --- | --- |
+| **Accent (text-safe)** | `#375E21` | The main accent: green text, icons and lines on white or light backgrounds, and fills behind white text | 7.54:1 against white. **Passes AA and AAA** at every text size. |
+| Brand green (logo) | `#76C04E` | Exact logo colour. Use for decorative shapes and big colour blocks, and as a fill only with **black or near-black text** on top | 9.42:1 with black text (passes AAA). Only 2.23:1 against white, so **never use it for text or icons on white, and never put white text on it.** |
+| Logo secondary green | `#64A245` | The darker green in the logo mark. Decorative use only | 3.09:1 against white, so not for text |
+
+Rule: any green **text** on a light background uses `#375E21`.
 
 ## 7. References
 
@@ -138,16 +152,20 @@ _None shared yet._
 
 ## 8. Decision log
 
-_No decisions logged yet. Add entries (date, decision, reason, by whom) only once the project owner confirms them._
+Add an entry (date, decision, reason, by whom) only once the project owner confirms it.
 
 | Date | Decision | Reason | By |
 | --- | --- | --- | --- |
+| 2026-11-21 | Accent colour = Yashpoly corporate green: `#375E21` as the text-safe accent, `#76C04E` (exact logo colour) for decorative use only | The accent had to come from the logo and pass WCAG AA and AAA; the logo green itself only reaches 2.23:1 against white | Project owner |
+| 2026-11-21 | Eco Dham sheets 02, 04 and 05 are out of scope | The deliverable is a presentation only | Project owner |
 
 ## 9. Open questions & notes
 
-- [ ] **Prefab City size isn't consistent in the source:** it appears as 50,000 sqm, 50 hectares, 100–150 acres and 540' × 600' (≈ 30,000 sqm). Confirm which figure to use.
-- [ ] The Eco Dham concept note pages are only partly included: sheets 01, 03, 6, 7 and 8 are in the deck, while 02, 04 and 05 appear to be missing. Get the full Eco Dham concept note into `context-files/`.
-- [ ] Get Yash Poly brand assets (logo, brand guidelines) and company profile.
+- [ ] **Prefab City size: still open.** The source gives 50,000 sqm, 50 hectares, 100–150 acres and a 540' × 600' layout (≈ 30,000 sqm). **Working assumption (from the project owner): all three size figures are in scope.** Keep all of them until the owner settles on one; don't pick one yourself.
+- [x] ~~Missing Eco Dham sheets 02, 04 and 05~~: not needed, since this deliverable is a presentation only.
+- [x] Yashpoly logo received (`context-files/yashpoly-logo.png`); accent colour set from it (section 6).
+- [ ] Get a vector or high-res logo, plus the company profile.
+- [ ] **Get the reference(s) the client shared**, then log them in section 7.
 - [ ] Confirm the deck's purpose, audience, length and format.
 - [ ] Wait for style references before designing.
 
