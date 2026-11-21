@@ -163,9 +163,9 @@ What makes it minimal:
 - Occasional script-style accent words; a few black-and-white photos
 
 ### Pitch templates (being explored)
-The client wants a minimal look, so minimal gallery templates in Pitch are the starting points for the style directions (section 10).
+The client wants a minimal look, so minimal gallery templates in Pitch are the starting points for the style directions (section 8).
 
-## 10. Style experiment: 4 directions (in progress)
+## 8. Style experiment: 4 directions (in progress)
 
 **Status: experiment, not a decision.** Four sample decks (5–6 slides each) are being made so the client can choose a style and vibe. Nothing here is locked until the client picks one.
 
@@ -187,7 +187,7 @@ The client wants a minimal look, so minimal gallery templates in Pitch are the s
 
 Client feedback: _awaited_
 
-## 8. Decision log
+## 9. Decision log
 
 Add an entry (date, decision, reason, by whom) only once the project owner confirms it.
 
@@ -196,14 +196,14 @@ Add an entry (date, decision, reason, by whom) only once the project owner confi
 | 2026-11-21 | Accent colour = Yashpoly corporate green: `#375E21` as the text-safe accent, `#76C04E` (exact logo colour) for decorative use only | The accent had to come from the logo and pass WCAG AA and AAA; the logo green itself only reaches 2.23:1 against white | Project owner |
 | 2026-11-21 | Eco Dham sheets 02, 04 and 05 are out of scope | The deliverable is a presentation only | Project owner |
 
-## 9. Open questions & notes
+## 10. Open questions & notes
 
 - [ ] **Prefab City size: still open.** The source gives 50,000 sqm, 50 hectares, 100–150 acres and a 540' × 600' layout (≈ 30,000 sqm). **Working assumption (from the project owner): all three size figures are in scope.** Keep all of them until the owner settles on one; don't pick one yourself.
 - [x] ~~Missing Eco Dham sheets 02, 04 and 05~~: not needed, since this deliverable is a presentation only.
 - [x] Yashpoly logo received (`context-files/yashpoly-logo.png`); accent colour set from it (section 6).
 - [ ] Get a vector or high-res logo, plus the company profile.
 - [x] Client reference received (style only), logged in section 7.
-- [ ] Client to choose one of the 4 style directions (section 10).
+- [ ] Client to choose one of the 4 style directions (section 8).
 - [ ] Confirm the deck's purpose, audience, length and format.
 - [ ] Wait for style references before designing.
 
