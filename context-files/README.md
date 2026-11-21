@@ -1,5 +1,5 @@
 # Context files
 
-Put reference material here for the Gracefab presentation: brand guidelines, logos, product info, copy drafts, data, and notes.
+All resources for the Yash Poly presentation: context decks, brand guidelines, logos, product info, photos, data, copy drafts and references.
 
-Agents read this folder before they create or edit slides.
+Every file added here should also be listed in the "Source files" section of `../AGENTS.md`.

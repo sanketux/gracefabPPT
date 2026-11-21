@@ -1,32 +1,97 @@
-# AGENTS.md
+# AGENTS.md — Yash Poly Presentation
 
-Instructions for AI coding agents (Claude Code, Codex, Cursor, etc.) working in this repository.
+> **Why this file exists:** This is the single source of truth for the Yash Poly presentation project.
+> Any designer or AI agent picking up this work should be able to read this file and continue exactly
+> where the previous person left off — without re-asking questions that were already answered.
+>
+> **Rule:** Every meaningful decision, change, or new piece of information about the deck gets logged here.
 
-## Project
+---
 
-**gracefabPPT**: the presentation deck for Gracefab.
+## 1. Project overview
 
-## Repository layout
-
-| Path | Purpose |
+| Item | Details |
 | --- | --- |
-| `AGENTS.md` | This file. Rules and context for agents. |
-| `context-files/` | Source material: brand guidelines, logos, product details, copy, data, notes. |
+| Client | Yash Poly |
+| Deliverable | Presentation deck |
+| Purpose / goal | _TBD — to be filled from context presentation_ |
+| Audience | _TBD_ |
+| Presentation format | _TBD (e.g. PPTX, Google Slides, Pitch)_ |
+| Status | Setup — waiting on context presentation |
 
-## Before you start
+## 2. About Yash Poly
 
-1. Read every file in `context-files/`. It is the source of truth for brand, tone, and facts.
-2. Don't make up facts, figures, client names, or claims. If something is missing, ask or leave a clear `TODO` placeholder.
+_TBD — company background, products, scale, locations, USPs. Fill from context files._
 
-## Working rules
+## 3. Key stats & facts
 
-- Stick to the brand colors, fonts, and tone described in `context-files/`.
-- Keep slides concise: one idea per slide, short headlines, minimal body text.
-- Put new reference material in `context-files/`, not in the repo root.
-- Use clear, lowercase, hyphenated file names (e.g. `brand-guidelines.pdf`).
-- Don't commit secrets, credentials, or private client data.
+Only use numbers listed here (or in `context-files/`). Never invent figures.
 
-## Git
+| Stat | Value | Source file |
+| --- | --- | --- |
+| _TBD_ | | |
 
-- Work on a feature branch and open a pull request. Don't push directly to `main`.
-- Write short, descriptive commit messages in the imperative mood.
+## 4. Source files
+
+All resources live in `context-files/`.
+
+| File | What it is | Notes |
+| --- | --- | --- |
+| `context-files/README.md` | Folder description | — |
+
+## 5. Deck structure
+
+Slide-by-slide outline of the current deck.
+
+| # | Slide title | Purpose / content | Status |
+| --- | --- | --- | --- |
+| _TBD_ | | | |
+
+## 6. Style, look & feel
+
+| Element | Decision |
+| --- | --- |
+| Overall mood | _TBD_ |
+| Primary colors | _TBD (hex values)_ |
+| Secondary / accent colors | _TBD_ |
+| Fonts (headings / body) | _TBD_ |
+| Imagery style | _TBD_ |
+| Icon style | _TBD_ |
+| Layout grid / slide size | _TBD_ |
+| Logo usage | _TBD_ |
+
+## 7. Approach
+
+_TBD — how the story is told, narrative flow, tone of voice, what to emphasise._
+
+## 8. References
+
+Decks, sites, or visuals used as inspiration, and what was taken from each.
+
+| Reference | What we liked / took from it |
+| --- | --- |
+| _TBD_ | |
+
+## 9. Decision log
+
+Newest first. Log what was decided, why, and by whom.
+
+| Date | Decision | Reason | By |
+| --- | --- | --- | --- |
+| 2026-11-21 | Created `AGENTS.md` as the project log and `context-files/` for all resources | So any designer can pick up the work without losing context | Sanket |
+
+## 10. Open questions / next steps
+
+- [ ] Share the context presentation and add it to `context-files/`
+- [ ] Fill sections 1–8 from the context presentation
+
+---
+
+## Working rules for designers & agents
+
+1. **Read this file and everything in `context-files/` before touching the deck.**
+2. Don't invent facts, figures, client names, or claims. If something is missing, ask or leave a `TODO`.
+3. Follow the style decisions in section 6. If you change one, log it in the decision log (section 9).
+4. Put new resources in `context-files/` and list them in section 4.
+5. After every work session, update the deck structure (section 5), decision log (section 9), and open questions (section 10).
+6. Name files in lowercase with hyphens (e.g. `yash-poly-context-deck.pptx`).
