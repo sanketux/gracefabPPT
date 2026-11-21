@@ -171,19 +171,29 @@ The client wants a minimal look, so minimal gallery templates in Pitch are the s
 
 **Shared brief for all 4 directions:**
 - Minimalist and corporate, for top industrialists, CEOs and government officers (style cue: the client's reference PDF)
-- Built in **Pitch**, starting from minimal Pitch gallery templates
+- Style references: minimal Pitch gallery templates (reference only); built as Slides artifacts
 - Accent: `#375E21` (text-safe corporate green); `#76C04E` for decoration only (see section 6)
 - **Icons: Phosphor Icons**, line style, stroke width around 1–1.5
 - **Charts: minimal, simple and subtle**
 - **Softness:** slightly rounded cards and icon containers
 - All 4 use the **same sample content** so the comparison is fair
 
-| Direction | Typography | Pitch template used as base | Deck link | Status |
+**Output format:** Slides artifacts (claude.ai). They open in the browser and download as PPTX or PDF. Pitch templates were a style reference only. Two early test builds (A and C) also exist in Pitch, linked below, but the Artifact decks are the ones to review.
+
+| Direction | Typography | Vibe / Pitch template it drew on | Slides artifact (main) | Early Pitch build |
 | --- | --- | --- | --- | --- |
-| A | **Geist** only (hierarchy through weight and size) | Lattice: Swiss grid, hairline rules, `[ 01 ]` index labels; re-themed to white | [Pitch deck](https://app.pitch.com/app/presentation/bea12b63-ec9f-47b0-a54a-073bc7b2e516/1d7142c6-e391-4120-8c75-572d62316867) | Built (6 slides) |
-| B | **Manrope** only (hierarchy through weight and size) | _TBD_ | _TBD_ | In progress |
-| C | **Fraunces** (headings) + **Geist / Inter** (body) | Editorial: annual-report grid, serif display headings, full-green title slide | [Pitch deck](https://app.pitch.com/app/presentation/bea12b63-ec9f-47b0-a54a-073bc7b2e516/e3eacf4c-33cd-4407-aeef-66d72d1e65b5) | Built (6 slides) |
-| D | **Space Grotesk** (headings) + **Geist** (body) | _TBD_ | _TBD_ | In progress |
+| A | **Geist** only (hierarchy through weight and size) | Swiss grid, hairline rules, `[ 01 ]` index labels, light display weights, one full-green statement slide (Pitch: Lattice) | [Deck A](https://claude.ai/artifact/PbfqtvqeTtSArubPT7jtBE) | [Pitch A](https://app.pitch.com/app/presentation/bea12b63-ec9f-47b0-a54a-073bc7b2e516/1d7142c6-e391-4120-8c75-572d62316867) |
+| B | **Manrope** only (hierarchy through weight and size) | Soft corporate: bento cards with a 32 px radius and soft shadows, round tinted icon circles, off-white base (Pitch: Bento / Corporate) | [Deck B](https://claude.ai/artifact/B4etDRNqJfEyWaeFEadXQa) | — |
+| C | **Fraunces** (headings) + **Geist** (body) | Editorial / annual report: light serif headlines with one italic green word, big serif numerals, full-green cover (Pitch: Editorial) | [Deck C](https://claude.ai/artifact/NLpiRkdvbeQkhaW3VsQcaB) | [Pitch C](https://app.pitch.com/app/presentation/bea12b63-ec9f-47b0-a54a-073bc7b2e516/e3eacf4c-33cd-4407-aeef-66d72d1e65b5) |
+| D | **Space Grotesk** (headings) + **Geist** (body) | Industrial spec sheet: dark charcoal-green cover and roadmap, module-grid motif, coded labels (T-01, Z-01), `#76C04E` numerals on dark only (Pitch: Board Report / Launch) | [Deck D](https://claude.ai/artifact/N7VA1iKbhnksB6oqkes7Kn) | — |
+
+All four use the same 6 sample slides: cover, the opportunity, planning targets, the Eco Dham campus (5 zones), prefab vs tent city (chart), and the roadmap. Icons are Phosphor **light** (about 1.5 px stroke at 32 px).
+
+**Notes for the next designer:**
+- The artifacts are private until shared from their Share menu.
+- Pitch's connector allows only 2 presentations to be edited at once. This blocked parallel builds, and is why the decks moved to Slides artifacts.
+- Four empty scratch decks were left in the private Pitch space and need deleting by hand: "scratch - Light", "scratch - Conference Presentation Minimal", "scratch - Research Presentation", "scratch - Editorial Layouts".
+- In Deck C's roadmap, the detail lines under phases 1, 2 and 4 are paraphrased from the source deck (slides 24–25).
 
 Client feedback: _awaited_
 
