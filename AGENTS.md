@@ -180,9 +180,9 @@ The client wants a minimal look, so minimal gallery templates in Pitch are the s
 
 | Direction | Typography | Pitch template used as base | Deck link | Status |
 | --- | --- | --- | --- | --- |
-| A | **Geist** only (hierarchy through weight and size) | _TBD_ | _TBD_ | In progress |
+| A | **Geist** only (hierarchy through weight and size) | Lattice: Swiss grid, hairline rules, `[ 01 ]` index labels; re-themed to white | [Pitch deck](https://app.pitch.com/app/presentation/bea12b63-ec9f-47b0-a54a-073bc7b2e516/1d7142c6-e391-4120-8c75-572d62316867) | Built (6 slides) |
 | B | **Manrope** only (hierarchy through weight and size) | _TBD_ | _TBD_ | In progress |
-| C | **Fraunces** (headings) + **Geist / Inter** (body) | _TBD_ | _TBD_ | In progress |
+| C | **Fraunces** (headings) + **Geist / Inter** (body) | Editorial: annual-report grid, serif display headings, full-green title slide | [Pitch deck](https://app.pitch.com/app/presentation/bea12b63-ec9f-47b0-a54a-073bc7b2e516/e3eacf4c-33cd-4407-aeef-66d72d1e65b5) | Built (6 slides) |
 | D | **Space Grotesk** (headings) + **Geist** (body) | _TBD_ | _TBD_ | In progress |
 
 Client feedback: _awaited_
