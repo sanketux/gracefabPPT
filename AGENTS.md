@@ -195,6 +195,10 @@ All four use the same 6 sample slides: cover, the opportunity, planning targets,
 - Four empty scratch decks were left in the private Pitch space and need deleting by hand: "scratch - Light", "scratch - Conference Presentation Minimal", "scratch - Research Presentation", "scratch - Editorial Layouts".
 - In Deck C's roadmap, the detail lines under phases 1, 2 and 4 are paraphrased from the source deck (slides 24–25).
 
+### Round 2 (in progress): feedback from the project owner, 2026-11-21
+- **A:** explore different visual directions using minimal shapes and patterns taken from the **Yashpoly logo**. The mark is two interlocking square frames, green and grey, with 45° mitred corners like uPVC window-profile joints. → **Direction A2 "Frames"** (new artifact; A stays for comparison).
+- **C:** keep Fraunces + Geist, but **don't overuse Fraunces: no italics, no bold, only light Fraunces, used sparingly** (headlines and hero numbers). Try a different visual direction and play with green shades and colours. → **Direction C2 "Tonal green"** (new artifact; C stays for comparison).
+
 Client feedback: _awaited_
 
 ## 9. Decision log
