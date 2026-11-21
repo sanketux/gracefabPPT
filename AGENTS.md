@@ -19,7 +19,7 @@
 | Event context | Industrial Kumbh 2027: positioning the Nashik-Trimbakeshwar Simhastha Kumbh Mela as a global investment, innovation and MSME platform for Maharashtra |
 | Partner | MIDC (Maharashtra Industrial Development Corporation) |
 | Purpose / goal | _Not confirmed yet_ |
-| Audience | _Not confirmed yet._ (The source deck was written for the Hon. Minister for Industries, Govt. of Maharashtra, and the CEO of MIDC.) |
+| Audience | **Top industrialists, CEOs and senior government officers.** The feel should be corporate. |
 | Format | _Not confirmed yet_ |
 | Status | Source context received. Accent colour confirmed. **Client references awaited; style and approach not locked yet.** |
 | Tooling | Pitch is connected to Claude (workspace "Sanket's team"), so the deck can be built in Pitch. The tool for the final deck isn't confirmed yet. |
@@ -42,6 +42,7 @@ All resources are in `context-files/`.
 | File | What it is | Notes |
 | --- | --- | --- |
 | `context-files/yashpoly-logo.png` | Yashpoly logo (230 × 48 px, small raster) | Source of the corporate green. Ask for a vector or high-res version before using it large. |
+| `context-files/client-reference-minimal.pdf` | **Client's style reference**: a 43-slide consulting deck by another firm, made for a foundation | **For minimalist style only. Don't use any of its content or information.** |
 | `context-files/industrial-kumbh-2027-nashik-source.pptx` | **Main source context deck**: "Industrial Kumbh 2027: Maharashtra Meets the World", 25 slides, 16:9 | Shared by the project owner as source context. Slides 9–15 are full-page images taken from Yashpoly's Eco Dham concept note. |
 
 ### Source deck: slide map
@@ -148,7 +149,43 @@ Rule: any green **text** on a light background uses `#375E21`.
 
 ## 7. References
 
-_None shared yet._
+### Client reference: `context-files/client-reference-minimal.pdf`
+The client shared this to show the **minimalist approach** they want. **Use it for style only.** Its content (organisations, people, numbers, case studies) has nothing to do with this project and must never be copied.
+
+What makes it minimal:
+- Mostly white backgrounds with lots of empty space; content sits on a clear grid with generous margins
+- **One accent colour** (a strong blue), used sparingly: a few full-colour slides for big statements, plus accent bars on section labels
+- Short uppercase headings at top left; thin grey rules divide content
+- **Thin line icons** in small circles; simple diagrams built from thin outlined circles and lines
+- Large single stats (e.g. one big % on a colour slide) with a small label
+- Very subtle charts: mostly grey with one accent bar
+- Light grey panels for side notes, no heavy boxes
+- Occasional script-style accent words; a few black-and-white photos
+
+### Pitch templates (being explored)
+The client wants a minimal look, so minimal gallery templates in Pitch are the starting points for the style directions (section 10).
+
+## 10. Style experiment: 4 directions (in progress)
+
+**Status: experiment, not a decision.** Four sample decks (5–6 slides each) are being made so the client can choose a style and vibe. Nothing here is locked until the client picks one.
+
+**Shared brief for all 4 directions:**
+- Minimalist and corporate, for top industrialists, CEOs and government officers (style cue: the client's reference PDF)
+- Built in **Pitch**, starting from minimal Pitch gallery templates
+- Accent: `#375E21` (text-safe corporate green); `#76C04E` for decoration only (see section 6)
+- **Icons: Phosphor Icons**, line style, stroke width around 1–1.5
+- **Charts: minimal, simple and subtle**
+- **Softness:** slightly rounded cards and icon containers
+- All 4 use the **same sample content** so the comparison is fair
+
+| Direction | Typography | Pitch template used as base | Deck link | Status |
+| --- | --- | --- | --- | --- |
+| A | **Geist** only (hierarchy through weight and size) | _TBD_ | _TBD_ | In progress |
+| B | **Manrope** only (hierarchy through weight and size) | _TBD_ | _TBD_ | In progress |
+| C | **Fraunces** (headings) + **Geist / Inter** (body) | _TBD_ | _TBD_ | In progress |
+| D | **Space Grotesk** (headings) + **Geist** (body) | _TBD_ | _TBD_ | In progress |
+
+Client feedback: _awaited_
 
 ## 8. Decision log
 
@@ -165,7 +202,8 @@ Add an entry (date, decision, reason, by whom) only once the project owner confi
 - [x] ~~Missing Eco Dham sheets 02, 04 and 05~~: not needed, since this deliverable is a presentation only.
 - [x] Yashpoly logo received (`context-files/yashpoly-logo.png`); accent colour set from it (section 6).
 - [ ] Get a vector or high-res logo, plus the company profile.
-- [ ] **Get the reference(s) the client shared**, then log them in section 7.
+- [x] Client reference received (style only), logged in section 7.
+- [ ] Client to choose one of the 4 style directions (section 10).
 - [ ] Confirm the deck's purpose, audience, length and format.
 - [ ] Wait for style references before designing.
 
