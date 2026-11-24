@@ -250,7 +250,18 @@ All four use the same 6 sample slides: cover, the opportunity, planning targets,
 
 Client feedback: _awaited_
 
-## 8a. Full deck: Direction A (Geist), built 2026-11-24
+## 8a. Decks to send: Version 1 and Version 2
+
+The project owner plans to send the client **two full decks** with the same content in two styles:
+- **Version 1: Direction A (Geist, Swiss).** [Open Version 1](https://claude.ai/artifact/HYJfJu4pgKLFeqSnCCwEHD), described below.
+- **Version 2: Direction A2 "Frames".** Being built as a separate artifact, reusing all of Version 1's content (link to follow).
+
+**Version 1 revisions, 2026-11-24 (owner feedback):**
+1. Value chains: the rules over the 500+ stat and the three columns didn't line up. They do now.
+2. Campus: the cards were too big and empty, so each zone now has a custom line illustration in the Phosphor line style: villas, delegation centre, deal room with map screen, sawtooth-roof pavilion, pitch stage.
+3. Calendar: the small square markers and broken lines were replaced by one continuous timeline with round nodes, and the Amrit Snan stretch is a green "Summit window" band.
+
+### Version 1 details (Direction A, Geist), built 2026-11-24
 
 **[Full deck A (Slides artifact)](https://claude.ai/artifact/HYJfJu4pgKLFeqSnCCwEHD)**, 22 slides. Built at the project owner's request from the source deck, the handwritten client brief (section 2a) and the reference photos. This is still the client's choice to confirm: Direction A is not locked as the final style.
 
