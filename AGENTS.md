@@ -250,6 +250,45 @@ All four use the same 6 sample slides: cover, the opportunity, planning targets,
 
 Client feedback: _awaited_
 
+## 8a. Full deck: Direction A (Geist), built 2026-11-24
+
+**[Full deck A (Slides artifact)](https://claude.ai/artifact/HYJfJu4pgKLFeqSnCCwEHD)**, 22 slides. Built at the project owner's request from the source deck, the handwritten client brief (section 2a) and the reference photos. This is still the client's choice to confirm: Direction A is not locked as the final style.
+
+**Style:** Direction A's Swiss look. Geist only, hairline rules, `[ NN ]` index labels, light display weights, `#375E21` accent with full-green statement slides. Phosphor light icons, minimal charts. Motion: staged fade or rise on arrival, bars grow, donuts draw, and map routes draw in.
+
+**Slide order:**
+1. Cover
+2. Proposal in one page
+3. Kumbh calendar
+4. Path to a trillion-dollar economy (bar chart)
+5. Maharashtra leads (3 donut charts: 39% FDI, 14.3% GDP, 75% of Davos pledges grounded)
+6. Nashik Golden Triangle (**map**)
+7. Prayagraj benchmark
+8. Prayagraj vs Nashik table
+9. Eco Dham by Yashpoly (split slide with factory photo)
+10. 10-acre campus, 5 zones
+11. Real prefab photos (mosaic)
+12. Features explained (2.5 T flooring, 45 dB acoustics, Class-A fire, 150 km/h structural steel, 90-day build, Wi-Fi 6E)
+13. Prefab vs tent (85% retained)
+14. Permanent industrial assets
+15. Statewide redeployment (**map**)
+16. Global leadership (100+ CEOs, 30+ countries, 50 sectors)
+17. Deal rooms to MoUs
+18. Global value chains
+19. Roadmap
+20. Governance
+21. Decisions required
+22. Close
+
+**Maps:** real Maharashtra district outlines, drawn as faint hairlines for the "minimal and exoskeletal" look the client asked for. The source is district GeoJSON from the open `udit-001/india-maps-data` repo, simplified. Routes are schematic.
+
+**Built on unconfirmed client-note figures (confirm before sending):**
+- **10-acre campus** (slides 9 and 10). This conflicts with the source deck's 50,000 sqm / 50 ha / 100–150 acres. The decisions slide deliberately leaves the site size out.
+- **100+ CEOs** (slides 2, 8 and 16). The note says "100+ / 500 CEOs"; 500 isn't shown.
+- **50 sectors** (slide 16). From the note only.
+- **85% asset value retained** (from the note; the source deck says 85%+).
+- **Reference photos** used on slides 9 and 11. Confirm usage rights and whose projects they show.
+
 ## 9. Decision log
 
 Add an entry (date, decision, reason, by whom) only once the project owner confirms it.
