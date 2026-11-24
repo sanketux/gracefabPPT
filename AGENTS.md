@@ -79,7 +79,20 @@ All resources are in `context-files/`.
 | `context-files/yashpoly-logo.png` | Yashpoly logo (230 × 48 px, small raster) | Source of the corporate green. Ask for a vector or high-res version before using it large. |
 | `context-files/client-reference-minimal.pdf` | **Client's style reference**: a 43-slide consulting deck by another firm, made for a foundation | **For minimalist style only. Don't use any of its content or information.** |
 | `context-files/client-meeting-notes-handwritten.webp` | **Handwritten client brief notes** (photo of a notebook page), shared 2026-11-24 | Transcribed in section 2a. |
+| `context-files/photos/` | **Real prefab reference photos** (5), shared 2026-11-24 as image references | See the list below this table. Product photos for the deck. Likely part of the "interior photos" the client mentioned (section 2a); confirm they can be used on slides. |
 | `context-files/industrial-kumbh-2027-nashik-source.pptx` | **Main source context deck**: "Industrial Kumbh 2027: Maharashtra Meets the World", 25 slides, 16:9 | Shared by the project owner as source context. Slides 9–15 are full-page images taken from Yashpoly's Eco Dham concept note. |
+
+### Reference photos (`context-files/photos/`)
+
+| File | What it shows | Size (px) |
+| --- | --- | --- |
+| `prefab-cottage-exterior-on-wheels.jpg` | White prefab cottage on a wheeled chassis (mobile unit), large uPVC sliding glass door, side porch, garden setting | 1280 × 960 |
+| `prefab-bedroom-interior.jpg` | Finished bedroom inside a prefab unit: panelled walls, ceiling fan, split AC, attached bathroom door, wood-look floor | 1045 × 1280 |
+| `prefab-balcony-deck.jpg` | Covered balcony/deck with white railings, wicker seating, pendant light; other prefab structures and palms behind | 1040 × 1280 |
+| `prefab-waiting-hall-interior.jpg` | Large prefab hall with rows of steel waiting-area seating, uPVC windows along both sides, LED panel lights | 1024 × 462 |
+| `prefab-cabin-porch-factory.jpg` | Grey prefab cabin with gabled white roof, porch railings, uPVC sliding window, photographed inside the factory (more units behind) | 1280 × 1100 |
+
+These show real built product (cottages, interiors, hall, factory). Use them for the campus, Investor Village and Delegation Centre slides, and as proof that the prefab model works. All are under 1300 px, so use them half-slide or smaller, not full-bleed at 1920.
 
 ### Source deck: slide map
 
@@ -252,7 +265,9 @@ Add an entry (date, decision, reason, by whom) only once the project owner confi
 - [x] ~~Missing Eco Dham sheets 02, 04 and 05~~: not needed, since this deliverable is a presentation only.
 - [x] Yashpoly logo received (`context-files/yashpoly-logo.png`); accent colour set from it (section 6).
 - [ ] Get a vector or high-res logo, plus the company profile.
-- [ ] Receive the CAD files, interior photos and video walkthrough the client mentioned (section 2a).
+- [x] 5 reference photos received (`context-files/photos/`).
+- [ ] Receive the CAD files, more interior photos (high-res if possible) and the video walkthrough the client mentioned (section 2a).
+- [ ] Confirm the reference photos can be used on slides, and whose product or projects they show (Yashpoly / Grace Plastofab?).
 - [ ] Confirm from the handwritten notes: 10-acre land vs the other size figures, 100+ vs 500 CEOs, and what "50 sectors" refers to.
 - [ ] Confirm whether "Grace Plastofab" (Pratik Chougule) is the client or brand alongside Yash Poly, and how it should appear in the deck.
 - [x] Client reference received (style only), logged in section 7.
