@@ -254,7 +254,12 @@ Client feedback: _awaited_
 
 The project owner plans to send the client **two full decks** with the same content in two styles:
 - **Version 1: Direction A (Geist, Swiss).** [Open Version 1](https://claude.ai/artifact/HYJfJu4pgKLFeqSnCCwEHD), described below.
-- **Version 2: Direction A2 "Frames".** Being built as a separate artifact, reusing all of Version 1's content (link to follow).
+- **Version 2: Direction A2 "Frames".** [Open Version 2](https://claude.ai/artifact/ToK6PEa6z5inPp7GJHDouq). Same 22 slides, data, maps, charts and photos as Version 1, restyled with the frame motif from the Yashpoly logo:
+  - The interlocking grey and green frame composition on the cover.
+  - Window-frame boxes with mitred corner ticks on stats, campus zones (Z-01…Z-05), features, deal-room stages, roadmap numbers, governance tiers and decisions. The one highlighted item per slide is framed in green.
+  - Deep-green `#2C4B1B` statement slides (proposal, Eco Dham, close) with the faint prefab-module grid. The close slide also carries the frame mark.
+  - "01 —" eyebrows, square calendar nodes and square map pins.
+  - Photos copied over from Version 1's asset store.
 
 **Version 1 revisions, 2026-11-24 (owner feedback):**
 1. Value chains: the rules over the 500+ stat and the three columns didn't line up. They do now.
