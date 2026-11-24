@@ -35,6 +35,41 @@ From slide 9 of the source deck:
 
 _More company info (products, plant, past projects, clients, certifications) is still needed._
 
+## 2a. Client brief notes (handwritten, shared 2026-11-24)
+
+Transcribed from `context-files/client-meeting-notes-handwritten.webp`. Read from handwriting, so names and figures should be confirmed.
+
+**Contact on the note:** Pratik Chougule, Grace Plastofab.
+
+**Topic:** Nashik Snan 2027 (Amrit Snan)
+
+**Assets the client mentioned (none received yet):**
+- CAD files
+- Interior photos
+- Video walkthrough
+
+**Content points:**
+- **10-acre land**, with pods and prefab structures
+- Audience: government and industry seniors
+- **100+ / 500 CEOs, 50 sectors**
+- ★ **Path to a Trillion-Dollar Economy** (starred, so a key theme)
+- Features need to be explained
+- Flooring is heavy-duty, with **2.5 tonnes** load capacity (matches the source deck's 2.5 T/sqm)
+- **Permanent industrial assets**
+- Geographic mapping
+- **85% asset value retained**
+- Structural steel and acoustic materials
+- Global value chains and MoUs
+
+**Visual requirements:**
+- Illustrations, pie charts, statistics and **map animations** needed
+- Maps should be **minimal and "exoskeletal"** (outline or skeleton style)
+
+**How these compare with the source deck (for the project owner to confirm):**
+- **Land size:** "10 acres" is a fifth size figure, alongside 50,000 sqm, 50 ha, 100–150 acres and 540' × 600' (see section 10).
+- **CEOs:** the source deck targets 100 global CEOs; the note says "100+ / 500 CEOs". Which number goes on the slides?
+- **"50 sectors"** isn't in the source deck.
+
 ## 3. Source files
 
 All resources are in `context-files/`.
@@ -43,6 +78,7 @@ All resources are in `context-files/`.
 | --- | --- | --- |
 | `context-files/yashpoly-logo.png` | Yashpoly logo (230 × 48 px, small raster) | Source of the corporate green. Ask for a vector or high-res version before using it large. |
 | `context-files/client-reference-minimal.pdf` | **Client's style reference**: a 43-slide consulting deck by another firm, made for a foundation | **For minimalist style only. Don't use any of its content or information.** |
+| `context-files/client-meeting-notes-handwritten.webp` | **Handwritten client brief notes** (photo of a notebook page), shared 2026-11-24 | Transcribed in section 2a. |
 | `context-files/industrial-kumbh-2027-nashik-source.pptx` | **Main source context deck**: "Industrial Kumbh 2027: Maharashtra Meets the World", 25 slides, 16:9 | Shared by the project owner as source context. Slides 9–15 are full-page images taken from Yashpoly's Eco Dham concept note. |
 
 ### Source deck: slide map
@@ -216,6 +252,9 @@ Add an entry (date, decision, reason, by whom) only once the project owner confi
 - [x] ~~Missing Eco Dham sheets 02, 04 and 05~~: not needed, since this deliverable is a presentation only.
 - [x] Yashpoly logo received (`context-files/yashpoly-logo.png`); accent colour set from it (section 6).
 - [ ] Get a vector or high-res logo, plus the company profile.
+- [ ] Receive the CAD files, interior photos and video walkthrough the client mentioned (section 2a).
+- [ ] Confirm from the handwritten notes: 10-acre land vs the other size figures, 100+ vs 500 CEOs, and what "50 sectors" refers to.
+- [ ] Confirm whether "Grace Plastofab" (Pratik Chougule) is the client or brand alongside Yash Poly, and how it should appear in the deck.
 - [x] Client reference received (style only), logged in section 7.
 - [ ] Client to choose one of the 4 style directions (section 8).
 - [ ] Confirm the deck's purpose, audience, length and format.
