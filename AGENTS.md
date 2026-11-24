@@ -90,7 +90,7 @@ All resources are in `context-files/`.
 | `prefab-bedroom-interior.jpg` | Finished bedroom inside a prefab unit: panelled walls, ceiling fan, split AC, attached bathroom door, wood-look floor | 1045 × 1280 |
 | `prefab-balcony-deck.jpg` | Covered balcony/deck with white railings, wicker seating, pendant light; other prefab structures and palms behind | 1040 × 1280 |
 | `prefab-waiting-hall-interior.jpg` | Large prefab hall with rows of steel waiting-area seating, uPVC windows along both sides, LED panel lights | 1024 × 462 |
-| `prefab-cabin-porch-factory.jpg` | Grey prefab cabin with gabled white roof, porch railings, uPVC sliding window, photographed inside the factory (more units behind) | 1280 × 1100 |
+| `prefab-cabin-porch-factory.jpg` | Grey prefab cabin with gabled white roof, porch railings, uPVC sliding window, photographed inside the factory (more units behind) | 1280 × 1110 |
 
 These show real built product (cottages, interiors, hall, factory). Use them for the campus, Investor Village and Delegation Centre slides, and as proof that the prefab model works. All are under 1300 px, so use them half-slide or smaller, not full-bleed at 1920.
 
