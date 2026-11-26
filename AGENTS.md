@@ -305,12 +305,62 @@ The project owner plans to send the client **two full decks** with the same cont
 - **85% asset value retained** (from the note; the source deck says 85%+).
 - **Reference photos** used on slides 9 and 11. Confirm usage rights and whose projects they show.
 
+## 8b. Nov 24 meeting revisions (applied to Version 1 on 2026-11-26)
+
+**Deck-wide rules (confirmed by the project owner):**
+- **No Yash Poly / Yashpoly name anywhere** in the deck (or the video). The project goes to tender, so nothing may point back to the proposer. The green branding stays.
+- **"Eco Dham" is renamed "Udyog Kumbh 2027".** Taglines: *"The World's First Sustainable Industry Kumbh"* and *"Assembled in Weeks. Reused for Decades."* The footer now reads "Udyog Kumbh 2027 · Nashik".
+- **No exact percentages for our own claims** (IAS officers will cross-question them). 85% becomes "maximum asset value retained", and 70–80% becomes "faster to deploy". The official state economy figures on slides 4–5 stay for now; Pratik decides later whether slide 4 goes.
+
+**Version 1 now has 22 slides:**
+1. Cover (Udyog Kumbh 2027; "Industrial Kumbh: a prefab city for Nashik Kumbh")
+2. One-page proposal ("Maximum" asset value)
+3. Calendar (runway lines removed)
+4. Trillion path
+5. Maharashtra leads
+6. Golden Triangle map
+7. Prayagraj benchmark
+8. Comparison
+9. Proposal statement ("Proposal for a reusable industrial prefab city, built for Kumbh and designed for Maharashtra's future"; 29 yrs and 10 acres; no company name)
+10. **NEW: the selected site** (Ram Kund 20 min, Trimbakeshwar 30 min, Ozar airport 30 min; approved render, labelled conceptual reference)
+11. Campus, 7 zones:
+    - Investor Village (75+ villas)
+    - Delegation Centre (2,000 seats, 5 bilateral suites)
+    - **Investment Deal Room**
+    - Industry Pavilion (B2B **networking**)
+    - Startup Arena (48-hour hackathon)
+    - **Hastakala Sangam** and **Karagir Peth** (artisan zones)
+    - plus a summary tile
+12. **VVIP and VIP stays** (photos, less white space)
+13. **Large events** (hall photo; USPs without numbers: dust-, water-, termite-, rust- and soundproof). This replaces "Engineered beyond temporary canvas".
+14. **After the summit**: MIDC runs the campus Aug–Sep 2027, then can rent it to a private agency, then redeploys it. The asset-value bar chart is removed.
+15. Permanent assets (no locations)
+16. Redeployment map: uses only (guest houses and admin blocks, MSME flatted factories and incubation hubs, skill development centres, export and trade centres). Cities stay on the map, and **Ratnagiri** is added and highlighted.
+17. Global leadership (sovereign capital list removed; partner days kept)
+18. **NEW: dedicated sectors.** Placeholder list from the source deck: defence, aerospace, electronics, EV and battery, green hydrogen, advanced manufacturing. Details are pending from Pratik.
+19. Deal rooms
+20. Value chains
+21. Roadmap
+22. Close (no branding; "national benchmark" line and thank-you)
+
+**Removed:** "Three-tier governance" and "Three approvals to start Phase 1".
+
+**Pending:**
+- 2–3 more prefab images and frames from the video, for the VVIP and events slides
+- Final sector details (Pratik)
+- Version 2 (A2 Frames) hasn't been updated with these changes yet
+
+New source file: `context-files/photos/site-layout-render.jpg` (also `.webp`), the approved campus render, usable as a conceptual reference only.
+
 ## 9. Decision log
 
 Add an entry (date, decision, reason, by whom) only once the project owner confirms it.
 
 | Date | Decision | Reason | By |
 | --- | --- | --- | --- |
+| 2026-11-24 | Remove all Yash Poly / Yashpoly mentions from the deck and video; rename Eco Dham to **Udyog Kumbh 2027** | The project goes to tender, so the deck can't point back to the proposer | Project owner (Nov 24 meeting) |
+| 2026-11-24 | No exact percentages for our own claims (e.g. "maximum asset value retained") | IAS officers will cross-question them | Project owner (Nov 24 meeting) |
+| 2026-11-24 | Remove the governance and decisions-required slides; add the site, sectors, VVIP and events slides | Meeting feedback | Project owner (Nov 24 meeting) |
 | 2026-11-21 | Accent colour = Yashpoly corporate green: `#375E21` as the text-safe accent, `#76C04E` (exact logo colour) for decorative use only | The accent had to come from the logo and pass WCAG AA and AAA; the logo green itself only reaches 2.23:1 against white | Project owner |
 | 2026-11-21 | Eco Dham sheets 02, 04 and 05 are out of scope | The deliverable is a presentation only | Project owner |
 
