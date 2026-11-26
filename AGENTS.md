@@ -331,7 +331,7 @@ The project owner plans to send the client **two full decks** with the same cont
     - Startup Arena (48-hour hackathon)
     - **Hastakala Sangam** and **Karagir Peth** (artisan zones)
     - plus a summary tile
-12. **VVIP and VIP stays** (photos, less white space)
+12. **VVIP and VIP stays**, split across **three slides, one photo each**, all uncropped: the cottage ("Modular executive villas"), the bedroom ("Finished interiors") and the deck ("Private decks"). The deck is now 24 slides.
 13. **Large events** (hall photo; USPs without numbers: dust-, water-, termite-, rust- and soundproof). This replaces "Engineered beyond temporary canvas".
 14. **After the summit**: MIDC runs the campus Aug–Sep 2027, then can rent it to a private agency, then redeploys it. The asset-value bar chart is removed.
 15. Permanent assets (no locations)
